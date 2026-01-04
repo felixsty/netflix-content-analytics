@@ -73,7 +73,7 @@ All data preparation was performed within Tableau, including:
 ```
 netflix-content-analytics/
 │
-├── Netflix_Dashboard.twbx        # Tableau packaged workbook
+├── netflix_Dashboard.twb         # Tableau packaged workbook
 ├── netflix_titles.csv            # Raw dataset
 |
 ├── images/
